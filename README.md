@@ -84,11 +84,8 @@ Estou aberto a colaborações, trocas de conhecimento e projetos que possam agre
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=huiishan99&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=MiltonJR7&color=brightgreen)
 
 </div>
 
 ------
-Credit: [huiishan99](https://github.com/huiishan99)
-
-Last Edited on: 23/06/2024
