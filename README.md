@@ -54,20 +54,7 @@ UNOESTE - Universidade do Oeste Paulista (3º semestre)
 
 ## 🐍 Atividade
 
-![Snake animation](https://github.com/MiltonJR7/MiltonJR7/blob/output/snake.svg)
-
----
-
-## 🌐 Conecte-se comigo
-
-<p align="left">
-  <a href="https://instagram.com/jr_oliveira.018" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/seu-linkedin" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+![Snake animation](https://raw.githubusercontent.com/MiltonJR7/MiltonJR7/output/github-contribution-grid-snake.svg)
 
 ---
 
