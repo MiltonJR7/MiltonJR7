@@ -54,7 +54,7 @@ UNOESTE - Universidade do Oeste Paulista (3º semestre)
 
 ## 🐍 Atividade
 
-![Snake animation](https://raw.githubusercontent.com/MiltonJR7/MiltonJR7/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MiltonJR7/MiltonJR7/output/github-contribution-grid-snake.svg?timestamp={{date}})
 
 ---
 
