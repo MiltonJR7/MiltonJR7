@@ -1,7 +1,7 @@
 name: Generate Snake
 
 permissions:
-  contents: write   # dá permissão para o bot criar/atualizar branches
+  contents: write
 
 on:
   schedule:
@@ -21,12 +21,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: MiltonJR7
-          color_from: "#6366f1"
-          color_to: "#10b981"
-          color_background: "#000000"
+          color_from: "#6366f1"  # Roxo moderno
+          color_to: "#10b981"    # Verde elétrico
+          color_background: "#000000"  # Fundo preto
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4
