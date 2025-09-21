@@ -93,6 +93,6 @@ UNOESTE - Universidade do Oeste Paulista
 
 <img src="https://raw.githubusercontent.com/MiltonJR7/MiltonJR7/main/assets/divider.svg" alt="divider" width="100%">
 
-*Última atualização: {{date}}*
+*Última atualização: {21/09}*
 
 </div>
