@@ -12,7 +12,7 @@
 
 ## 🌍 Sobre Mim
 
-Sou Milton de Oliveira Junior, natural de Presidente Prudente, São Paulo. Tenho 19 anos e atualmente estou cursando o terceiro semestre de **Análise e Desenvolvimento de Sistemas** na UNOESTE.
+Sou Milton de Oliveira Junior, natural de Presidente Prudente, São Paulo. Tenho 20 anos e atualmente estou cursando o terceiro semestre de **Análise e Desenvolvimento de Sistemas** na UNOESTE.
 
 <br>
 
