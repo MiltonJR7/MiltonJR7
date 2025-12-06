@@ -24,25 +24,6 @@ UNOESTE - Universidade do Oeste Paulista
 
 <br>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=MiltonJR7&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&text_color=6366F1&icon_color=10B981&title_color=6366F1" />
-    </td>
-    <td align="center" width="50%">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonJR7&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&text_color=6366F1&title_color=6366F1&langs_count=8&hide=jupyter%20notebook" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
 ## 💻 Stack Tecnológico
 
 <p align="center"> 
@@ -62,16 +43,6 @@ UNOESTE - Universidade do Oeste Paulista
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/MiltonJR7/MiltonJR7/output/github-contribution-grid-snake.svg?{{date}})
-
-</div>
-
-<br>
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=MiltonJR7&theme=nightowl&hide_border=true&area=true&bg_color=00000000&color=6366F1&line=10B981&point=6366F1)
 
 </div>
 
