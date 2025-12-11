@@ -10,21 +10,21 @@
 
 <br>
 
-## 🌍 Sobre Mim
+## Sobre Mim
 
 Sou Milton de Oliveira Junior, natural de Presidente Prudente, São Paulo. Tenho 20 anos e atualmente estou cursando o quarto semestre de **Análise e Desenvolvimento de Sistemas** na UNOESTE.
 
 <br>
 
-## 🎓 Formação Acadêmica
+## Formação Acadêmica
 
-📚 **Análise e Desenvolvimento de Sistemas**  
+**Análise e Desenvolvimento de Sistemas**  
 UNOESTE - Universidade do Oeste Paulista  
 *4º Semestre - Cursando*
 
 <br>
 
-## 💻 Stack Tecnológico
+## Stack Tecnológico
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -38,7 +38,7 @@ UNOESTE - Universidade do Oeste Paulista
 
 <br>
 
-## 🐍 Minha Contribuição em Destaque
+## Minha Contribuição em Destaque
 
 <div align="center">
 
@@ -47,23 +47,3 @@ UNOESTE - Universidade do Oeste Paulista
 </div>
 
 <br>
-
-## 🏆 Conquistas
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/MiltonJR7?style=flat-square&color=6366F1&label=Seguidores)
-![GitHub stars](https://img.shields.io/github/stars/MiltonJR7?style=flat-square&color=10B981&label=Estrelas)
-![](https://komarev.com/ghpvc/?username=MiltonJR7&style=flat-square&color=8B5CF6&label=Visualizações)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MiltonJR7/MiltonJR7/main/assets/divider.svg" alt="divider" width="100%">
-
-*Última atualização: {21/09}*
-
-</div>
