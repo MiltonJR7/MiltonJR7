@@ -12,15 +12,26 @@
 
 ## Sobre Mim
 
-Sou Milton de Oliveira Junior, natural de Presidente Prudente, São Paulo. Tenho 20 anos e atualmente estou cursando o quarto semestre de **Análise e Desenvolvimento de Sistemas** na UNOESTE.
+👋 Olá, eu sou o Milton.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;Atualmente estudante de ***Análise e Desenvolvimento de Sistemas*** (4º semestre) na Unoeste, com foco em desenvolvimento back end. Trabalho principalmente com **JavaScript**, **Node.js** e **Express**, desenvolvendo APIs REST seguindo a 
+arquitetura MVC, com experiência em CRUD de usuários, middlewares de autenticação, uso de cookies e bcrypt para criptografia de senhas, além de atuação com bancos de dados relacionais, principalmente MySQL, e contato básico com Oracle e PostgreSQL. Utilizo Git e GitHub 
+no dia a dia, VS Code como ambiente de desenvolvimento, e atualmente estou me preparando para desenvolver um sistema de e commerce, com o objetivo de evoluir tecnicamente e conquistar uma vaga júnior em desenvolvimento back end.
 
 <br>
 
 ## Formação Acadêmica
 
-**Análise e Desenvolvimento de Sistemas**  
-UNOESTE - Universidade do Oeste Paulista  
-*4º Semestre - Cursando*
+🎓 ***Análise e Desenvolvimento de Sistemas***  
+UNOESTE – Universidade do Oeste Paulista  
+4º semestre (cursando)
+
+<br>
+
+
+## Objetivo Profissional
+
+Aprimorar meus conhecimentos em desenvolvimento back end durante o período final da graduação e me preparar para uma oportunidade como desenvolvedor júnior, com foco em boas práticas, organização de código e aplicações escaláveis.
 
 <br>
 
@@ -35,6 +46,19 @@ UNOESTE - Universidade do Oeste Paulista
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
+
+
+💻 Linguagens  
+JavaScript • SQL • C • C++
+
+⚙️ Back end  
+Node.js • Express • APIs REST • MVC
+
+🗄️ Bancos de Dados  
+MySQL • Oracle (básico) • PostgreSQL (básico)
+
+🛠️ Ferramentas  
+Git • GitHub • VS Code
 
 <br>
 
