@@ -52,6 +52,11 @@ Atualmente, sigo aprofundando meus estudos em Analise e Desenvolvimento de Siste
       <td align="center">Node.js, JavaScript, Express, Bcrypt, JWT</td>
       <td align="center">Em desenvolvimento</td>
     </tr>
+    <tr>
+      <td>SIAGRO</td>
+      <td align="center">C (ANSI C), arquivos binários</td>
+      <td align="center">Concluído (melhorias futuras)</td>
+    </tr>
   </tbody>
 </table>
 
