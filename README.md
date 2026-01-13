@@ -24,13 +24,13 @@
 ### ➥ Sobre mim
 Sou um desenvolvedor de sistemas com maior afinidade por Back-End, com forte base em:
 
-Lógica de programação
-Estruturas de dados
-Manipulação de memória
-Modelagem de sistemas
-Integração entre linguagens
+- Lógica de programação
+- Estruturas de dados
+- Manipulação de memória
+- Modelagem de sistemas
+- Integração entre linguagens
 
-Tenho experiência com APIs em Node.js, mas meu projeto mais robusto foi desenvolvido em C, onde trabalhei intensamente conceitos fundamentais da computação, buscando sempre código organizado, eficiente e bem estruturado.
+Tenho experiência prática no desenvolvimento de APIs em Node.js, mas meu projeto mais robusto foi desenvolvido em C, onde trabalhei intensamente conceitos fundamentais da computação, buscando sempre código organizado, eficiente e bem estruturado.
 
 Atualmente, sigo aprofundando meus estudos em Analise e Desenvolvimento de Sistemas, C/C++, arquitetura de sistemas e boas práticas de desenvolvimento.
 
@@ -54,7 +54,7 @@ Atualmente, sigo aprofundando meus estudos em Analise e Desenvolvimento de Siste
     </tr>
     <tr>
       <td>SIAGRO</td>
-      <td align="center">C (ANSI C), arquivos binários</td>
+      <td align="center">C (console, arquivos .bin)</td>
       <td align="center">Concluído (melhorias futuras)</td>
     </tr>
   </tbody>
