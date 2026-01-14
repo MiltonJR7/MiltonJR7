@@ -73,13 +73,12 @@ Organização de projetos e documentação técnica
 ---
 
 ### ➥ Em constante aprendizado
-Atualmente estou cursando Analise e Desenvolvimento de Sistemas:
+Sou estudante de Análise e Desenvolvimento de Sistemas, aprofundando conhecimentos em:
 
-Padrões de projeto
-Engenharia reversa (fins educacionais)
-Boas práticas de código e documentação
-Desenvolvimento de sistemas de médio porte
-
+- Padrões de projeto e arquitetura de software
+- Engenharia reversa aplicada a estudos educacionais
+- Boas práticas de código, organização e documentação
+- Desenvolvimento de sistemas de médio porte
 ---
 
 ### ➥ Contato
