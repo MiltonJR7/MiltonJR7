@@ -64,11 +64,11 @@ Atualmente, sigo aprofundando meus estudos em Analise e Desenvolvimento de Siste
 ---
 
 ### ➥ Estrutura de Conhecimento
-Desenvolvimento de sistemas em C
-Criação de APIs REST com Node.js
-Manipulação de processos e memória
-Versionamento com Git/GitHub
-Organização de projetos e documentação técnica
+- Desenvolvimento de sistemas em C
+- Criação de APIs REST com Node.js
+- Manipulação de processos e memória
+- Versionamento com Git/GitHub
+- Organização de projetos e documentação técnica
 
 ---
 
