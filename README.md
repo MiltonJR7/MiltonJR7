@@ -83,10 +83,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, aprofundando conhecimen
 
 ### ➥ Contato
 <p align="left">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/MiltonJR7">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/milton-de-oliveira-junior-6940362a1/?originalSubdomain=br">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
