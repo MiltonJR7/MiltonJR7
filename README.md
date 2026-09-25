@@ -1,10 +1,6 @@
 <h1 align="center">💻 Milton de Oliveira Junior</h1>
 <h3 align="center">Desenvolvedor de Sistemas | Back-End</h3>
 
-<p align="center">
-  <i>Focado em lógica, estruturas de dados e desenvolvimento de sistemas.</i>
-</p>
-
 ---
 
 ### ➥ Habilidades
