@@ -1,95 +1,61 @@
-<h1 align="center">💻 Milton de Oliveira Junior</h1>
-<h3 align="center">Desenvolvedor de Sistemas | Back-End</h3>
-
----
-
-### ➥ Habilidades
+<h1 align="center">Milton de Oliveira Junior</h1>
 
 <p align="center">
-  <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,nodejs,html,css" />
+  Estudante de Análise e Desenvolvimento de Sistemas | Foco em Back-end
 </p>
 
 <p align="center">
-  <!-- Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,postgresql" />
+  Desenvolvimento de APIs, bancos de dados relacionais e lógica de programação.
 </p>
 
 ---
 
-### ➥ Sobre mim
-Sou um desenvolvedor de sistemas com maior afinidade por Back-End, com forte base em:
+### Sobre mim
 
-- Lógica de programação
-- Estruturas de dados
-- Manipulação de memória
-- Modelagem de sistemas
-- Integração entre linguagens
+Sou estudante de Análise e Desenvolvimento de Sistemas na Unoeste, com foco em desenvolvimento back-end utilizando **JavaScript, Node.js e Express**.
 
-Tenho experiência prática no desenvolvimento de APIs em Node.js, mas meu projeto mais robusto foi desenvolvido em C, onde trabalhei intensamente conceitos fundamentais da computação, buscando sempre código organizado, eficiente e bem estruturado.
+Tenho experiência acadêmica e prática em projetos que envolvem **APIs, autenticação, operações CRUD e persistência de dados**. Também desenvolvi um sistema em **C**, com armazenamento em arquivos binários, que contribuiu para minha compreensão de estruturas de dados e gerenciamento de memória.
 
-Atualmente, sigo aprofundando meus estudos em Analise e Desenvolvimento de Sistemas, C/C++, arquitetura de sistemas e boas práticas de desenvolvimento.
+Atualmente, busco aprofundar meus conhecimentos em **modelagem de bancos de dados, organização de aplicações e boas práticas de desenvolvimento**.
 
----
+### Tecnologias
 
-### ➥ Projetos de Software
+**Back-end e linguagens**
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Projeto</th>
-      <th align="center">Tecnologias Back-end</th>
-      <th align="center">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>E-commerce</td>
-      <td align="center">Node.js, JavaScript, Express, Bcrypt, JWT</td>
-      <td align="center">Em desenvolvimento</td>
-    </tr>
-    <tr>
-      <td>SIAGRO</td>
-      <td align="center">C (console, arquivos .bin)</td>
-      <td align="center">Concluído (melhorias futuras)</td>
-    </tr>
-  </tbody>
-</table>
-
-
----
-
-### ➥ Estrutura de Conhecimento
-- Desenvolvimento de sistemas em C
-- Criação de APIs REST com Node.js
-- Manipulação de processos e memória
-- Versionamento com Git/GitHub
-- Organização de projetos e documentação técnica
-
----
-
-### ➥ Em constante aprendizado
-Sou estudante de Análise e Desenvolvimento de Sistemas, aprofundando conhecimentos em:
-
-- Padrões de projeto e arquitetura de software
-- Engenharia reversa aplicada a estudos educacionais
-- Boas práticas de código, organização e documentação
-- Desenvolvimento de sistemas de médio porte
----
-
-### ➥ Contato
-<p align="left">
-  <a href="https://github.com/MiltonJR7">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/milton-de-oliveira-junior-6940362a1/?originalSubdomain=br">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,c,cpp" alt="JavaScript, Node.js, Express, C e C++" />
 </p>
 
----
+**Bancos de dados e ferramentas**
 
-<p align="center">
-  <i>"Código limpo, lógica forte e aprendizado constante."</i>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" alt="PostgreSQL, MySQL, Git e GitHub" />
 </p>
 
+### Projetos em destaque
+
+#### [E-commerce](https://github.com/MiltonJR7/E-commerce) — em desenvolvimento
+
+Aplicação web para gerenciamento de usuários e produtos, com autenticação e funcionalidades de compra em evolução.
+
+- **Tecnologias:** JavaScript, Node.js, Express, PostgreSQL e EJS.
+- **Implementado:** cadastro e login, autenticação JWT, proteção de rotas, CRUD de usuários e produtos, dashboard administrativo e carrinho no front-end.
+- **Em andamento:** consolidação do fluxo de pedidos, validações de compra e atualização de estoque no back-end.
+
+#### [SIAGRO — Sistema de Gestão de Oficina Agrícola](https://github.com/MiltonJR7/Code-PI-Faculdade) — projeto acadêmico concluído
+
+Sistema em C, executado no terminal, para gerenciamento de clientes, produtos, serviços e vendas.
+
+- **Tecnologias:** C e arquivos binários.
+- **Implementado:** cadastros e consultas, controle de estoque, registro de vendas e persistência de dados.
+- **Possíveis melhorias:** modularização, validações de entrada e relatórios.
+
+### Atualmente estudando
+
+- Modelagem e consultas em bancos de dados relacionais.
+- Estruturação de APIs e regras de negócio no back-end.
+- Boas práticas de código, documentação e organização de projetos.
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/milton-de-oliveira-junior-6940362a1/) · [GitHub](https://github.com/MiltonJR7)
